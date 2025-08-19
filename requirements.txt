@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pdfplumber
+python-dotenv
+rapidfuzz
+pytesseract
+pdf2image
+google-generativeai
+pillow
